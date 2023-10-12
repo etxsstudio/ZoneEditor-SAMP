@@ -2,4 +2,5 @@
 - ไฟล์ .exe อยู่ใน bin\Debug
 [--> ที่นี่](https://github.com/etxsstudio/ZoneEditor-SAMP/tree/3a7841ccf41d7c3b1258c84c502fdc0cf480c168/bin/Debug)
 - หากอยาก Build ใหม่ให้ใช้ Visual Studio 2022
-[--> ที่นี่](https://cdn.memes.com/up/49279221571077735/i/1598273049962.jpg)
+[--> ที่นี่](https://visualstudio.microsoft.com/vs/)
+![Logo](https://cdn.memes.com/up/49279221571077735/i/1598273049962.jpg)
